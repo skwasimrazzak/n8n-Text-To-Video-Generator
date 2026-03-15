@@ -1,0 +1,4 @@
+flask
+gtts
+pillow
+moviepy==1.0.3
